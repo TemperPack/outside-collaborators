@@ -1,0 +1,17 @@
+qc-data-charts:
+  external-collabrators/sw-dev:
+    type: "group"
+    permissions: "write"
+ 
+  external-collabrators/sw-lead:
+    type: "group"
+    permissions: "maintain"
+
+  external-collabrators/sw-admin:
+    type: "group"
+    permissions: "triage"
+  
+  npricebf:
+    type: "user"
+    permissions: "write"
+  

@@ -1,0 +1,12 @@
+magpie-jobs:
+  external-collabrators/sw-dev:
+    type: "group"
+    permissions: "write"
+ 
+  external-collabrators/sw-lead:
+    type: "user"
+    permissions: "maintain"
+
+  external-collabrators/sw-admin:
+    type: "group"
+    permissions: "triage"
