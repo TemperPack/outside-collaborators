@@ -1,4 +1,4 @@
-tmp_repo: 
-  teams/sw-lead:
-    type: "user"
-    permissions: "maintain"  
+tmp_repo:
+  tmp_repo/sw-lead:
+    type: group
+    permission: maintain
