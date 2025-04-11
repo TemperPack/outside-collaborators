@@ -1,4 +1,4 @@
 tmp_repo: 
-  ext-collab/sw-lead:
+  teams/sw-lead:
     type: "user"
     permissions: "maintain"  
