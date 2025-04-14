@@ -5,3 +5,6 @@ tp-core-exp-api:
   mule_freelance/maintain:
     type: "group"
     permissions: "maintain"
+  mule_wipfli/dev:
+    type: "group"
+    permissions: "write"

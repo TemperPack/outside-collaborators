@@ -10,3 +10,6 @@ mule_freelance/maintain:
 mule_a360/dev:
   - "rgarcia-accelerize360"
   - "kbryanA360"
+
+mule_wipfli/dev:
+  - "poojarpx"
