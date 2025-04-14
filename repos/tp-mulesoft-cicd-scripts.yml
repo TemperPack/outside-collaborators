@@ -1,0 +1,4 @@
+tp-mulesoft-cicd-scripts:
+  mule_freelance/dev:
+    type: "group"
+    permissions: "read"

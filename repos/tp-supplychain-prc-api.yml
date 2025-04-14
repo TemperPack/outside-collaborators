@@ -1,0 +1,4 @@
+tp-supplychain-prc-api:
+  mule_freelance/dev:
+    type: "group"
+    permissions: "write"
