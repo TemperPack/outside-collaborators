@@ -2,3 +2,6 @@ tp-mulesoft-template-repo:
   mule_freelance/dev:
     type: "group"
     permissions: "read"
+  mule_freelance/maintain:
+    type: "group"
+    permissions: "maintain"

@@ -1,7 +1,10 @@
-tp-supplychain-prc-api:
+tp-cubeiq-prc-api:
   mule_freelance/dev:
     type: "group"
     permissions: "write"
   mule_freelance/maintain:
     type: "group"
     permissions: "maintain"
+  mule_a360/dev:
+    type: "group"
+    permissions: "write"

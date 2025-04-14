@@ -2,3 +2,6 @@ tp-mulesoft-cicd-scripts:
   mule_freelance/dev:
     type: "group"
     permissions: "read"
+  mule_freelance/maintain:
+    type: "group"
+    permissions: "maintain"

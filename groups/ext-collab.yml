@@ -3,3 +3,10 @@ tmp_repo/sw-lead:
 
 mule_freelance/dev:
   - "ali-raza21"
+
+mule_freelance/maintain:
+  - "zeeshanzan"
+
+mule_a360/dev:
+  - "rgarcia-accelerize360"
+  - "kbryanA360"
