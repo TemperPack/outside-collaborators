@@ -1,4 +1,0 @@
-tp-mulesoft-template-repo:
-  mule_freelance/dev:
-    type: "group"
-    permissions: "read"
