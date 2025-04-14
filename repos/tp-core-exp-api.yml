@@ -1,4 +1,4 @@
-tp-supplychain-prc-api:
+tp-core-exp-api:
   mule_freelance/dev:
     type: "group"
     permissions: "write"

@@ -1,4 +1,4 @@
-tp-supplychain-prc-api:
+tp-sfdc-sys-api:
   mule_freelance/dev:
     type: "group"
     permissions: "write"
