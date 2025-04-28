@@ -1,0 +1,7 @@
+tp-account-management-pai:
+  mule_freelance/dev:
+    type: "group"
+    permissions: "write"
+  mule_freelance/maintain:
+    type: "group"
+    permissions: "maintain"
