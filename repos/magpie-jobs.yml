@@ -1,5 +1,5 @@
 magpie-jobs:
-  mulesoft/dev:
+  silectis/dev:
     type: "group"
     permissions: "write"
   silectis/maintain:
