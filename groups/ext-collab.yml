@@ -22,3 +22,9 @@ silectis/dev:
   
 silectis/maintain:
   - "mboegner"
+
+silectis/admin:
+  - "mboegner"
+  - "AlexWillBattle"
+  - "bfraiche"
+  - "DemetriKots"

@@ -5,3 +5,6 @@ magpie-temperpack-utils:
   silectis/maintain:
     type: "group"
     permissions: "maintain"
+  silectis/admin:
+    type: "group"
+    permissions: "admin"

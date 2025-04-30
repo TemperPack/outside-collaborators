@@ -5,3 +5,6 @@ magpie-jobs:
   silectis/maintain:
     type: "group"
     permissions: "maintain"
+  silectis/admin:
+    type: "group"
+    permissions: "admin"
