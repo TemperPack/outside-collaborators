@@ -15,3 +15,10 @@ mule_wipfli/dev:
   - "poojarpx"
   - "nayaksx"
   - "Jim-Halverson"
+
+silectis/dev:
+  - "AlexWillBattle"
+  - "bfraiche"
+  
+silectis/maintain:
+  - "mboegner"
