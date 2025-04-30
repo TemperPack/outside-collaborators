@@ -1,0 +1,7 @@
+magpie:
+  silectis/dev:
+    type: "group"
+    permissions: "write"
+  silectis/maintain:
+    type: "group"
+    permissions: "maintain"
