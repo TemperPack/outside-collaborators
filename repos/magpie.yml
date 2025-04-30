@@ -5,6 +5,6 @@ magpie:
   silectis/maintain:
     type: "group"
     permissions: "maintain"
-  silectis/admin
+  silectis/admin:
     type: "group"
     permissions: "admin"
