@@ -4,4 +4,4 @@ tp-qbench-sys-api:
     permissions: "write"
   mule_freelance/maintain:
     type: "group"
-    permission: "maintain"
+    permissions: "maintain"
